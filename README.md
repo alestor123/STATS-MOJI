@@ -3,10 +3,6 @@
 
 # Usage
 
-``
+``var statsMoji = require('stats-moji')
 
-var statsMoji = require('stats-moji')
-
-console.log(statsMoji(200))
-
-``
+console.log(statsMoji(200))``
