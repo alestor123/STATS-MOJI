@@ -4,6 +4,9 @@
 # Usage
 
 ``
+
 var statsMoji = require('stats-moji')
+
 console.log(statsMoji(200))
+
 ``
